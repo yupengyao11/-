@@ -1,4 +1,5 @@
-const baseUrl = "http://www.liulongbin.top:3007";
+const baseUrl = "http://big-event-api-t.itheima.net";
+// const baseUrl = "http://www.liulongbin.top:3007";
 
 
 $.ajaxPrefilter((option) => {
